@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StrongComponents",
+            "request": "launch",
+            "mainClass": "StrongComponents"
+        }
+    ]
+}
